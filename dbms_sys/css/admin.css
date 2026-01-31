@@ -1,0 +1,45 @@
+  *{
+    margin: o;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .wrapper{
+
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .text-center{
+    text-align: center;
+  }
+
+  .menu ul{
+    list-style-type: none;
+  }
+   .menu ul li{
+        display: inline; 
+        padding: 1%;
+    }
+    .menu ul li a{
+        text-decoration: none;
+        font-weight: bold;
+    color: pink;}
+  
+  .footer{
+    background-color: pink;
+    color: white;
+  }
+
+.tbl-full{
+    width: 100%;
+}
+
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+}
